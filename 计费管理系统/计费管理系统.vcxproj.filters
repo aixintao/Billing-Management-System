@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="menu.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="global.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="service_getonoff.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="service_adminlogin.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="service_askstats.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="service_card.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="service_fee.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="service_standard.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="service_vip.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="data_card.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="data_standard.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="data_vip.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="data_credit.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="service_credit.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="data_admin.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="service_blacklist.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="data_log.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="menu.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="global.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="service_getonoff.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="service_fee.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="service_standard.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="service_card.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="service_vip.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="service_askstats.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="service_adminlogin.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="model.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="data_card.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="data_standard.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="data_vip.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="data_credit.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="service_credit.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="data_admin.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="service_blacklist.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="data_log.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="menu.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="sub_menus.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="..\update_log.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
