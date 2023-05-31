@@ -4,10 +4,10 @@ And more than that.
 
 You're welcome to contribute to this "huge" C(++) project or just "CV" the code here.
 
-Since C++ style code is not recommended in that course, code in C-style as much as possible.
+Since C++ style code is not recommended in that course, code in C-style as much as possible :(
 
 Some projects (but I may never made it):
-- Make C++ version of it, replacing C-style code to STL and so on.
+- Make C++ version of it, replacing C-style code to STL and so on (Maybe it can be used in some C++ Experiment courses).
 - Upgrade its IO code.
 - Add i18n module.
 - Add many many annotations.
