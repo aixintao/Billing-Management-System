@@ -8,4 +8,5 @@ Some projects (but I may never made it):
 - Make C++ version of it, replacing C-style code to STL and so on.
 - Upgrade its IO code.
 - Add i18n module.
+- Add many many annotations.
 - Standardize the structure of files of this project and the names of variables and functions.
